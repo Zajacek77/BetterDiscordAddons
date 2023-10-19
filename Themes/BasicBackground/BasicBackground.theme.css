@@ -29,7 +29,7 @@
 	--textshadow:					transparent;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
 	--settingsicons:				1;							/* Use Settings Icons in User Settings: 1 = yes, 0 = no															*/
 	
-	--background:					url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/_res/background.jpg);	/* general background image				*/
+	--background:					url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpapercosmos.com%2Fw%2Ffull%2F7%2F8%2Fc%2F1232441-3840x2160-desktop-4k-gothic-anime-wallpaper.jpg&tbnid=IyWh5YiHdkx9CM&vet=12ahUKEwjI1Pe6q4KCAxVKIRAIHQrUC-0QMygQegQIARB0..i&imgrefurl=https%3A%2F%2Fwallpapercosmos.com%2Fgothic-anime-wallpapers&docid=-2P3zCD-RVZoBM&w=3840&h=2160&q=anime%20wallpaper&client=opera-gx&ved=2ahUKEwjI1Pe6q4KCAxVKIRAIHQrUC-0QMygQegQIARB0);	/* general background image				*/
 	--backgroundposition:			center;						/* default: center				(position of background - values: [center/top/right/bottom/left])				*/
 	--backgroundsize:				cover;						/* default: cover				(sizefit of background - values: [cover/contain/auto])							*/
 	--backgroundblur:				unset;						/* default: unset				(blur in px, only works when --background is set to an image)					*/
